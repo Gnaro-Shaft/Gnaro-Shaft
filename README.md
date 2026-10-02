@@ -32,4 +32,4 @@ Real-time market analysis with an ML model for signal prediction, plus technical
 
 ### 📫 Reach me
 
-🌐 [gcn-data.fr](https://gcn-data.fr) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/gcnisus/)
+🌐 [gnaro.fr](https://gnaro.fr) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/gcnisus/)
